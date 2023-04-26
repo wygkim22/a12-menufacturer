@@ -10,6 +10,7 @@ Plate of Nation aims to highlight cultural favorites offered by MLK restaurants 
 - Homepage
   - Vendor Spotlight
 - Restaurants Directory
+  - Menus and information about each restaurant
 - Digital Passport
 - News & Press
 - About Us
